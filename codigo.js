@@ -10,3 +10,8 @@ function mensajes() {
 let mensaje = mensajes();
 document.write(mensaje.holaMundo);
 document.write(mensaje.primerScript);
+
+
+const mesesDelAnno = [ "Enero","Febrero","Marzo","Abril","Mayo","Junio","Agoosto","Septiembre","Octubre","Nomviembre","Diciembre"];
+
+console.log (mesesDelAnno);
